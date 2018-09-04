@@ -1,0 +1,14 @@
+1.目录结构：
+ webApp
+    mock文件夹：放所有json文件
+    src文件夹：放静态资源（html,css,img,js）
+              (放做好的网页)
+    server.js 服务器文件
+    
+ 2.项目有需要用第三方的模块：
+ npm install -S vue axios express
+ 
+ 3.搭建服务器
+ 	
+ 
+ 
